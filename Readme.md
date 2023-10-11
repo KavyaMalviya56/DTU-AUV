@@ -4,3 +4,6 @@ NAME - KAVYA MALVIYA
 BRANCH - SOFTWARE ENGINEERING
 DEPARTMENT - SOFTWARE
 YEAR - 1st
+
+### command to run launch file
+   ros2 launch turtlesim_mimic_launch.py
